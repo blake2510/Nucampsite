@@ -1,0 +1,23 @@
+h1, h2, h3 {
+    font-family: "Lobster", cursive; 
+}
+
+.jumbotron {
+    margin: 0; 
+    padding: 30px; 
+    background-image: linear-gradient(to right, #360b0b, #770d0d, #da0707); 
+    color: white; 
+}
+
+.navbar {
+    background: black; 
+}
+
+body {
+    background: #360b0b; 
+}
+
+.carousel {
+    border: solid rgb(94, 55, 55); 
+    margin-top: 15px; 
+}
